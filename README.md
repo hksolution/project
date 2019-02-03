@@ -1,0 +1,2 @@
+# project
+Solution for all
